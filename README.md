@@ -1,5 +1,7 @@
 # e_commerce
 
+![flutterEcommerce](https://user-images.githubusercontent.com/26883843/163721198-28b7a9a1-c07f-4bfc-bec9-bb97cb4b2c63.gif)
+
 A new Flutter project.
 
 ## Getting Started
